@@ -4,7 +4,7 @@
       <strong>Engineer.</strong> Building, optimizing, and shipping production-grade systems.
     </td>
     <td align="right">
-      <a href="https://github.com/thribhuvan003/portfolio">Portfolio</a> ·
+      <a href="https://3bu1.me/">Portfolio</a> ·
       <a href="mailto:thribhuvan003@gmail.com">Email</a> ·
       <a href="https://github.com/thribhuvan003">GitHub</a>
     </td>

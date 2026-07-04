@@ -1,48 +1,47 @@
-<div align="center">
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>Full-stack engineer.</strong> Production systems, measured results.
+    </td>
+    <td align="right">
+      <a href="https://www.linkedin.com/in/thribhuvan003/">LinkedIn</a> ·
+      <a href="mailto:thribhuvan003@gmail.com">Email</a> ·
+      <a href="https://unholdd.vercel.app">Unhold</a> ·
+      <a href="https://trayy.vercel.app">Tray</a>
+    </td>
+  </tr>
+</table>
 
-# Thribhuvan P
+I build **multi-tenant SaaS, AI-agent pipelines, and computer-vision systems** — shipped live, backed by tests and benchmarks.
 
-**Full-stack engineer · Codeforces Expert (1700+, top 5% globally)**
+▸ Building **[Unhold](https://github.com/thribhuvan003/unhold)** · AI case manager for bank/UPI account freezes · 5-agent pipeline · [218 tests](https://github.com/thribhuvan003/unhold) · [live](https://unholdd.vercel.app)<br/>
+▸ Shipped **[Tray](https://github.com/thribhuvan003/trayy)** · multi-tenant campus food-ordering SaaS · Postgres RLS isolation · UPI settlement · [live](https://trayy.vercel.app)<br/>
+▸ **[AquaVision](https://github.com/thribhuvan003/AquaVision-Web)** · CPU-only underwater image & video restoration · **+8.2 UCIQE / +3.6 dB PSNR** on a reproducible benchmark · [live demo](https://huggingface.co/spaces/mark2423432/AquaVision)<br/>
+▸ **[TabMind](https://github.com/thribhuvan003/tabmind)** · local-first AI browsing-session tracker for Chrome · 6 AI providers, everything on-device<br/>
+▸ **Codeforces Expert (1700+)** · rated top 5% of competitive programmers globally<br/>
+▸ **330+ automated tests** across projects · Vitest, Playwright, pytest · Sentry in production<br/>
 
-I design and ship production-grade systems — multi-tenant SaaS, real-time
-infrastructure, and AI-powered platforms.
+Currently building **Unhold** and **TabMind**.
+<br/>
+<p>
+  <strong>Tech Stack ⚙️</strong>
+  &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thribhuvan003-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thribhuvan003/)
-[![Email](https://img.shields.io/badge/Email-thribhuvan003%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thribhuvan003@gmail.com)
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" />
+  <img alt="React" src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-161B22?style=flat&logo=supabase&logoColor=3FCF8E" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-161B22?style=flat&logo=opencv&logoColor=5C3EE8" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" />
+  <img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-161B22?style=flat&logo=razorpay&logoColor=0C2451" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" />
+</p>
 
-</div>
-
----
-
-**Now building:** [Unhold](https://github.com/thribhuvan003/unhold) — an AI case manager for bank/UPI account freezes, from notice OCR to authority-ready paperwork.
-
-## Featured work
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Tray](https://github.com/thribhuvan003/trayy)** · [live](https://trayy.vercel.app) | Multi-tenant food ordering SaaS — one deployment serves N institutions with isolated portals, direct UPI settlement, and sub-300 ms real-time updates | Next.js 15 · TypeScript · Supabase · Postgres RLS · Razorpay |
-| **[Unhold](https://github.com/thribhuvan003/unhold)** · [live](https://unholdd.vercel.app) | AI case manager for bank/UPI account freezes — five specialized agents take a case from notice intake to authority-ready paperwork, backed by 218 tests | Next.js 16 · TypeScript · Supabase · Groq · NVIDIA NIM |
-| **[AquaVision](https://github.com/thribhuvan003/AquaVision-Web)** · [live](https://huggingface.co/spaces/mark2423432/AquaVision) | CPU-only underwater image & video restoration — +8.2 UCIQE, +3.6 dB PSNR on a reproducible benchmark | Python · Flask · PyTorch · OpenCV · Docker |
-| **[TabMind](https://github.com/thribhuvan003/tabmind)** | Local-first AI browsing session tracker for Chrome — 6 AI providers, everything stored on-device | WXT · Manifest V3 · React · TypeScript |
-
-## How I build
-
-- **Correctness first** — idempotent payment webhooks with HMAC-SHA256 verification, dead-letter queues with daily reconciliation, append-only audit logs
-- **Isolation at the database layer** — Postgres Row-Level Security over scattered `WHERE` clauses
-- **Measured, not claimed** — reproducible benchmarks and 330+ automated tests across projects (Vitest, Playwright, pytest), Sentry in production
-- **Algorithms under the hood** — Codeforces Expert, rated top 5% of competitive programmers worldwide
-
-## Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3fcf8e?style=flat-square&logo=supabase&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+**How I build** — idempotent payment webhooks (HMAC-SHA256), Postgres Row-Level Security over scattered `WHERE` clauses, dead-letter queues with daily reconciliation, append-only audit logs. Measured, not claimed.
 
 ---
 

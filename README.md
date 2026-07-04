@@ -14,6 +14,8 @@ infrastructure, and AI-powered platforms.
 
 ---
 
+**Now building:** [Unhold](https://github.com/thribhuvan003/unhold) — an AI case manager for bank/UPI account freezes, from notice OCR to authority-ready paperwork.
+
 ## Featured work
 
 | Project | What it is | Stack |

@@ -14,6 +14,7 @@
 
 I build **multi-tenant SaaS, AI-agent pipelines, and computer-vision systems** — shipped live, backed by tests and benchmarks.
 
+▸ **Open source:** merged into **[refined-github](https://github.com/refined-github/refined-github/pull/9777)** (31k★ browser extension) and **[Sugar Labs / Music Blocks](https://github.com/sugarlabs/musicblocks/pull/7727)** ([×2](https://github.com/sugarlabs/musicblocks/pull/7731), GSoC org) · more PRs in review at [wxt](https://github.com/wxt-dev/wxt/pull/2486), [Skyvern](https://github.com/Skyvern-AI/skyvern/pull/7076), [Onyx](https://github.com/onyx-dot-app/onyx/pull/12678), [Activepieces](https://github.com/activepieces/activepieces/pull/14051), [npmx](https://github.com/npmx-dev/npmx.dev/pull/3000)<br/>
 ▸ Building **[Unhold](https://github.com/thribhuvan003/unhold)** · AI case manager for bank/UPI account freezes · 5-agent pipeline · [218 tests](https://github.com/thribhuvan003/unhold) · [live](https://unholdd.vercel.app)<br/>
 ▸ Shipped **[Tray](https://github.com/thribhuvan003/trayy)** · multi-tenant campus food-ordering SaaS · Postgres RLS isolation · UPI settlement · [live](https://trayy.vercel.app)<br/>
 ▸ **[AquaVision](https://github.com/thribhuvan003/AquaVision-Web)** · CPU-only underwater image & video restoration · **+8.2 UCIQE / +3.6 dB PSNR** on a reproducible benchmark · [live demo](https://huggingface.co/spaces/mark2423432/AquaVision)<br/>

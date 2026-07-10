@@ -4,10 +4,10 @@
 
 I build full-stack AI products, multi-tenant SaaS systems, and contribute to open-source infrastructure.
 
-- Merged into **sveltejs/svelte** · keyed-each computed-key fix · approved by core maintainer dummdidumm
-- Merged into **rjsf-team/react-jsonschema-form** · preserved empty string titles in oneOf/anyOf
-- Merged into **refined-github/refined-github** · conventional-commits capitalized type support
-- Merged into **sugarlabs/musicblocks** · two bug fixes across #7727 and #7731
+- Merged into **sveltejs/svelte** (87.5k★) · keyed-each computed-key fix · approved by core maintainer dummdidumm
+- Merged into **rjsf-team/react-jsonschema-form** (15.8k★) · preserved empty string titles in oneOf/anyOf
+- Merged into **refined-github/refined-github** (31.6k★) · conventional-commits capitalized type support
+- Merged into **sugarlabs/musicblocks** (854★) · two bug fixes across #7727 and #7731
 - **Codeforces Expert 1700+** · competitive programmer
 - Member · @sugarlabs · @rjsf-team · @refined-github
 

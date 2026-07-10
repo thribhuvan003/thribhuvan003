@@ -1,23 +1,35 @@
-# Thribhuvan
+**Engineer / Builder.** Shipping products, fixing bugs in the wild, and competing on Codeforces.
 
-Full-stack engineer building reliable AI products and multi-tenant web systems.
+[Portfolio](https://3bu1.me) · [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com)
 
-[Portfolio](https://3bu1.me) | [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) | [Email](mailto:thribhuvan003@gmail.com)
+I build full-stack AI products, multi-tenant SaaS systems, and contribute to open-source infrastructure.
 
-## Selected work
+- Merged into **sveltejs/svelte** · keyed-each computed-key fix · approved by core maintainer dummdidumm
+- Merged into **rjsf-team/react-jsonschema-form** · preserved empty string titles in oneOf/anyOf
+- Merged into **refined-github/refined-github** · conventional-commits capitalized type support
+- Merged into **sugarlabs/musicblocks** · two bug fixes across #7727 and #7731
+- **Codeforces Expert 1700+** · competitive programmer
+- Member · @sugarlabs · @rjsf-team · @refined-github
 
-- **[Unhold](https://github.com/thribhuvan003/unhold)** - A case-management tool for Indian bank and UPI account freezes. It explains notices, verifies documents, and drafts authority-ready letters through a five-agent pipeline. [Live product](https://unholdd.vercel.app)
-- **[Tray](https://github.com/thribhuvan003/trayy)** - Multi-tenant campus food-ordering SaaS with Postgres row-level security, Razorpay payments, and real-time kitchen boards. [Live product](https://trayy.vercel.app)
-- **[AquaVision](https://github.com/thribhuvan003/AquaVision-Web)** - CPU-only underwater image and video restoration using classical computer vision and MobileNetV2 routing. Achieved +8.2 UCIQE and +3.6 dB PSNR on a reproducible benchmark. [Live demo](https://huggingface.co/spaces/mark2423432/AquaVision)
-- **[TabMind](https://github.com/thribhuvan003/tabmind)** - A local-first Chrome extension that turns browsing sessions into summaries, tasks, and tab groups while keeping data on-device.
+Currently building **Tray**, **TabMind**, **Unhold**, and **workspace-flow**.
 
-## Open source
+---
 
-- Merged contributions to [Refined GitHub](https://github.com/refined-github/refined-github/pull/9777) and [Sugar Labs / Music Blocks](https://github.com/sugarlabs/musicblocks/pull/7727), with a [follow-up Music Blocks contribution](https://github.com/sugarlabs/musicblocks/pull/7731).
-- Active pull requests in [WXT](https://github.com/wxt-dev/wxt/pull/2486), [Skyvern](https://github.com/Skyvern-AI/skyvern/pull/7076), [Onyx](https://github.com/onyx-dot-app/onyx/pull/12678), [Activepieces](https://github.com/activepieces/activepieces/pull/14051), and [npmx](https://github.com/npmx-dev/npmx.dev/pull/3000).
+**Tech Stack**
 
-## Engineering focus
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 
-TypeScript, Python, Next.js, React, PostgreSQL, Supabase, computer vision, AI systems, and production integrations.
+---
 
-Currently building Unhold and TabMind. Codeforces Expert (1700+).
+**GitHub Stats**
+
+![Thribhuvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thribhuvan003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thribhuvan003&layout=compact&theme=tokyonight&hide_border=true)

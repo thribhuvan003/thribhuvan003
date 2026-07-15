@@ -22,7 +22,7 @@ Member · @sugarlabs · @rjsf-team · @refined-github — **Codeforces Expert 17
 **Building**
 
 - **[Tray](https://github.com/thribhuvan003/trayy)** · multi-tenant food-ordering SaaS — Postgres RLS, Razorpay UPI, realtime kitchen boards · [live](https://trayy.vercel.app)
-- **[Unhold](https://github.com/thribhuvan003/unhold)** · AI case management for Indian bank/UPI freezes — 4-agent pipeline, OCR verification · [live](https://unholdd.vercel.app)
+- **[Unhold](https://github.com/thribhuvan003/unhold)** · AI case management for Indian bank/UPI freezes — 4-agent pipeline, OCR verification · [live](https://unhold.live)
 - **[TabMind](https://github.com/thribhuvan003/tabmind)** · local-first Chrome extension turning browsing sessions into summaries and tasks
 - **[AquaVision](https://github.com/thribhuvan003/AquaVision-Web)** · CPU-only underwater image restoration, +8.2 UCIQE / +3.6 dB PSNR · [live](https://huggingface.co/spaces/mark2423432/AquaVision)
 
@@ -39,10 +39,3 @@ Member · @sugarlabs · @rjsf-team · @refined-github — **Codeforces Expert 17
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-
----
-
-**GitHub Stats**
-
-![Thribhuvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thribhuvan003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thribhuvan003&layout=compact&theme=tokyonight&hide_border=true)

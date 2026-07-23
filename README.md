@@ -1,6 +1,6 @@
 **Engineer / Builder.** Shipping products, fixing bugs in the wild, and competing on Codeforces.
 
-[Portfolio](https://3bu1.me) · [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com)
 
 I build full-stack AI products, multi-tenant SaaS systems, and contribute to open-source infrastructure.
 

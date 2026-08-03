@@ -1,4 +1,4 @@
-**Engineer / Builder.** Shipping products, fixing bugs in the wild, and competing on Codeforces.
+**Engineer / Builder.** Shipping products and fixing bugs in the wild.
 
 [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com)
 
@@ -13,12 +13,13 @@ I build full-stack AI products, multi-tenant SaaS systems, and contribute to ope
 - **[SvelteKit](https://github.com/sveltejs/kit)** (20.6k★) · [#16329](https://github.com/sveltejs/kit/pull/16329) · detect destructured route exports during type generation
 - **[react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)** (15.8k★) · [#5150](https://github.com/rjsf-team/react-jsonschema-form/pull/5150) · preserve empty-string titles in oneOf/anyOf
 - **[Nitro](https://github.com/nitrojs/nitro)** (11k★) · [#4422](https://github.com/nitrojs/nitro/pull/4422) · SameSite=Lax for Vercel skew-protection cookies — merged by pi0
+- **[Supabase JS](https://github.com/supabase/supabase-js)** (official Supabase SDK) · [#2537](https://github.com/supabase/supabase-js/pull/2537) · expose the service error `code` on `StorageApiError` so callers can branch on it — merged by core maintainer mandarini
 - **[Supabase SSR](https://github.com/supabase/ssr)** (official auth package) · [#258](https://github.com/supabase/ssr/pull/258) · fixed a cookie-deletion order bug that left `signOut()` unable to clear sessions in Next.js — merged by Supabase maintainer mandarini
 - **[Music Blocks](https://github.com/sugarlabs/musicblocks)** (Sugar Labs, GSoC org) · [#7727](https://github.com/sugarlabs/musicblocks/pull/7727) · [#7731](https://github.com/sugarlabs/musicblocks/pull/7731) · Turtle Blocks import crash + action-name corruption
 
-In review: [Directus](https://github.com/directus/directus/pull/27880) · [Supabase JS](https://github.com/supabase/supabase-js/pull/2537) · [Svelte](https://github.com/sveltejs/svelte/pull/18526) · [WXT](https://github.com/wxt-dev/wxt/pull/2485) · and more.
+In review: [Directus](https://github.com/directus/directus/pull/27880) · [Svelte](https://github.com/sveltejs/svelte/pull/18526) · [WXT](https://github.com/wxt-dev/wxt/pull/2486) · and more.
 
-Contributor · @sugarlabs · @rjsf-team · @refined-github — **Codeforces Specialist (max 1402)**
+Contributor · @sugarlabs · @rjsf-team · @refined-github
 
 **Building**
 

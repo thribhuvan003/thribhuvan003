@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="72" viewBox="0 0 920 72" role="img" aria-label="Building, breaking, learning.">
+  <style>
+    text { fill: #1f2328; font-family: Georgia, "Times New Roman", serif; font-size: 40px; font-weight: 700; letter-spacing: -0.03em; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #e6edf3; }
+    }
+  </style>
+  <text x="0" y="52">Building, breaking, learning.</text>
+</svg>

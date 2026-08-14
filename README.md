@@ -1,17 +1,10 @@
-<table width="100%">
-  <tr>
-    <td align="left">
-      <strong>Building, breaking, learning.</strong>
-    </td>
-    <td align="right">
-      <a href="https://thribhuvan0.vercel.app">Portfolio</a> ·
-      <a href="https://www.linkedin.com/in/thribhuvan003/">LinkedIn</a> ·
-      <a href="mailto:thribhuvan003@gmail.com">Email</a>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://raw.githubusercontent.com/thribhuvan003/thribhuvan003/main/header.svg" alt="Building, breaking, learning." width="820" />
+</p>
 
 I use these tools. When one broke, I sent a small patch. The people who own the code merged it.
+
+[Portfolio](https://thribhuvan0.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com)
 
 **Upstream**
 
@@ -34,8 +27,8 @@ I use these tools. When one broke, I sent a small patch. The people who own the 
 
 **Live**
 
-- **[Unhold](https://unhold.live)** — a case file when a bank or UPI account is frozen. You write every letter.
-- **[Tray](https://trayy.vercel.app)** — orders for a street stall, on that stall’s UPI. The next stall cannot see them.
+- **[Unhold](https://unhold.live)** — when a bank or UPI account is frozen, this is the case file. You write every letter. The tool never talks to the bank.
+- **[Tray](https://trayy.vercel.app)** — orders for a street stall, paid to that stall’s UPI. Another stall on the same server cannot see them.
 
 ### Tech Stack
 

@@ -1,17 +1,36 @@
-<p>
-  <img src="header.svg" alt="Building, breaking, learning." width="720" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>Building, breaking, learning.</strong>
+    </td>
+    <td align="right">
+      <a href="https://thribhuvan0.vercel.app">Portfolio</a> ·
+      <a href="https://www.linkedin.com/in/thribhuvan003/">LinkedIn</a> ·
+      <a href="mailto:thribhuvan003@gmail.com">Email</a>
+    </td>
+  </tr>
+</table>
 
-I use the tools. I fix them at the source.
-
-[Portfolio](https://thribhuvan0.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com)
+I use these tools. When one broke, I sent a small patch. The people who own the code merged it.
 
 **Upstream**
 
-- **[Svelte](https://github.com/sveltejs/svelte/pull/18521)** ⭐ 88k — a list in the compiler was wrong. Merged by core.
-- **[SvelteKit](https://github.com/sveltejs/kit/pull/16329)** ⭐ 21k — type generation missed destructured exports. Merged by Rich Harris.
-- **[Prisma](https://github.com/prisma/prisma/pull/29701)** ⭐ 47k — a query could return someone else’s data. Merged by core.
-- **[Supabase](https://github.com/supabase/ssr/pull/258)** — sign-out could leave the session alive. Merged by a maintainer.
+- **[Svelte](https://github.com/sveltejs/svelte/pull/18521)** ⭐ 88k · ~5M installs last week · merged by [@dummdidumm](https://github.com/dummdidumm)  
+  I hit a compiler bug in a list. It is fixed now.
+- **[SvelteKit](https://github.com/sveltejs/kit/pull/16329)** ⭐ 21k · merged by [Rich Harris](https://github.com/Rich-Harris)  
+  Type generation missed destructured route exports. It is fixed now.
+- **[Prisma](https://github.com/prisma/prisma/pull/29701)** ⭐ 47k · ~16M installs last week · merged by [@aqrln](https://github.com/aqrln)  
+  A query could return someone else’s data. It is fixed now.
+- **[Supabase SSR](https://github.com/supabase/ssr/pull/258)** · ~7M installs last week · merged by [@mandarini](https://github.com/mandarini)  
+  Sign-out could leave the session alive. It is fixed now.
+- **[Supabase JS](https://github.com/supabase/supabase-js/pull/2537)** ⭐ 4.5k · merged by [@mandarini](https://github.com/mandarini)  
+  The error `code` was hidden from callers. It is not now.
+- **[SolidJS](https://github.com/solidjs/solid/pull/2875)** ⭐ 36k · merged by [Ryan Carniato](https://github.com/ryansolid)  
+  Types were missing at the advertised path. They are not now.
+- **[Nitro](https://github.com/nitrojs/nitro/pull/4422)** ⭐ 11k · merged by [@pi0](https://github.com/pi0)  
+  Skew-protection cookies were too strict. Fixed.
+- **[Refined GitHub](https://github.com/refined-github/refined-github/pull/9777)** ⭐ 32k · merged by [@fregante](https://github.com/fregante)  
+  Conventional-commit types could not be capitalized. They can now.
 
 **Live**
 

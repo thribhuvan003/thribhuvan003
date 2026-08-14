@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="72" viewBox="0 0 920 72" role="img" aria-label="Building, breaking, learning.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="88" viewBox="0 0 1100 88" role="img" aria-label="Building, breaking, learning.">
   <style>
-    text { fill: #1f2328; font-family: Georgia, "Times New Roman", serif; font-size: 40px; font-weight: 700; letter-spacing: -0.03em; }
-    @media (prefers-color-scheme: dark) {
-      text { fill: #e6edf3; }
-    }
+    .t { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif; font-size: 52px; font-weight: 700; letter-spacing: -0.035em; fill: #1f2328; }
+    @media (prefers-color-scheme: dark) { .t { fill: #f0f3f6; } }
   </style>
-  <text x="0" y="52">Building, breaking, learning.</text>
+  <text class="t" x="0" y="62">Building, breaking, learning.</text>
 </svg>

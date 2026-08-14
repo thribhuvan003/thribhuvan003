@@ -14,6 +14,13 @@
   <a href="mailto:thribhuvan003@gmail.com"><strong>Mail ↗</strong></a>
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1400&color=8B949E&center=true&vCenter=true&width=680&height=32&repeat=true&lines=I+don%27t+wrap+the+bug.+I+open+the+source.;When+the+library+is+wrong%2C+the+patch+goes+there.;Sometimes+the+fix+ends+up+upstream."
+    alt="I don't wrap the bug. I open the source."
+  />
+</p>
+
 <br>
 
 ## Went one layer deeper.

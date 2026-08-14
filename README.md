@@ -2,15 +2,15 @@ Bengaluru.
 
 I build, I break, I read why, and I try to be a better engineer than I was yesterday.
 
-These are not my projects. They are tools teams already run in production. I sent small fixes. The maintainers merged them.
+I use these tools in my own work. When one of them broke, I fixed it there — not around it. The maintainers merged the patches.
 
 [Portfolio](https://thribhuvan0.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com)
 
 **Fixes that landed**
 
-- [Svelte](https://github.com/sveltejs/svelte/pull/18521) — 88,000 stars. About 5 million installs last week. A list in the compiler was wrong. It is not now.
-- [Prisma](https://github.com/prisma/prisma/pull/29701) — 47,000 stars. About 16 million installs last week. A query could return another person’s data. It does not now.
-- [Supabase](https://github.com/supabase/ssr/pull/258) — official login kit. About 7 million installs last week. Sign-out could leave you signed in. It does not now.
+- [Svelte](https://github.com/sveltejs/svelte/pull/18521) — 88,000 stars. About 5 million installs last week. I hit a compiler bug in a list. It is fixed now.
+- [Prisma](https://github.com/prisma/prisma/pull/29701) — 47,000 stars. About 16 million installs last week. I hit a query that could return someone else’s data. It is fixed now.
+- [Supabase](https://github.com/supabase/ssr/pull/258) — official login kit. About 7 million installs last week. I hit a sign-out that left the session alive. It is fixed now.
 
 **Live**
 

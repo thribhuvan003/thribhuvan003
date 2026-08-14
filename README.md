@@ -2,33 +2,48 @@
   <img src="https://raw.githubusercontent.com/thribhuvan003/thribhuvan003/main/header.svg" alt="Building, breaking, learning." width="820" />
 </p>
 
-I use these tools. When one broke, I sent a small patch. The people who own the code merged it.
+<table>
+  <tr>
+    <td>
+      <strong>Engineer.</strong> Building, breaking, learning.
+    </td>
+    <td align="right">
+      <a href="https://thribhuvan0.vercel.app">Portfolio</a> · 
+      <a href="https://www.linkedin.com/in/thribhuvan003/">LinkedIn</a> · 
+      <a href="mailto:thribhuvan003@gmail.com">Email</a>
+    </td>
+  </tr>
+</table>
 
-[Portfolio](https://thribhuvan0.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com)
+I use these tools. When one broke, I sent a small patch. The people who own the code merged it.
 
 **Upstream**
 
-- **[Svelte](https://github.com/sveltejs/svelte/pull/18521)** ⭐ 88k · ~5M installs last week · merged by [@dummdidumm](https://github.com/dummdidumm)  
-  I hit a compiler bug in a list. It is fixed now.
+- **[Svelte](https://github.com/sveltejs/svelte/pull/18521)** ⭐ 88k · ~5M installs/week · merged by [@dummdidumm](https://github.com/dummdidumm)  
+  Compiler bug in keyed `{#each}` with computed destructuring. Fixed.
+
 - **[SvelteKit](https://github.com/sveltejs/kit/pull/16329)** ⭐ 21k · merged by [Rich Harris](https://github.com/Rich-Harris)  
-  Type generation missed destructured route exports. It is fixed now.
-- **[Prisma](https://github.com/prisma/prisma/pull/29701)** ⭐ 47k · ~16M installs last week · merged by [@aqrln](https://github.com/aqrln)  
-  A query could return someone else’s data. It is fixed now.
-- **[Supabase SSR](https://github.com/supabase/ssr/pull/258)** · ~7M installs last week · merged by [@mandarini](https://github.com/mandarini)  
-  Sign-out could leave the session alive. It is fixed now.
+  Type generation missed destructured route exports. Fixed.
+
+- **[Prisma](https://github.com/prisma/prisma/pull/29701)** ⭐ 47k · ~16M installs/week · merged by [@aqrln](https://github.com/aqrln)  
+  A query could return someone else’s data. Fixed.
+
+- **[Supabase SSR](https://github.com/supabase/ssr/pull/258)** · ~7M installs/week · merged by [@mandarini](https://github.com/mandarini)  
+  Sign-out could leave the session alive. Fixed.
+
 - **[Supabase JS](https://github.com/supabase/supabase-js/pull/2537)** ⭐ 4.5k · merged by [@mandarini](https://github.com/mandarini)  
-  The error `code` was hidden from callers. It is not now.
+  Error `code` was hidden from callers. Not anymore.
+
 - **[SolidJS](https://github.com/solidjs/solid/pull/2875)** ⭐ 36k · merged by [Ryan Carniato](https://github.com/ryansolid)  
-  Types were missing at the advertised path. They are not now.
+  Types missing at the advertised path. Fixed.
+
 - **[Nitro](https://github.com/nitrojs/nitro/pull/4422)** ⭐ 11k · merged by [@pi0](https://github.com/pi0)  
   Skew-protection cookies were too strict. Fixed.
-- **[Refined GitHub](https://github.com/refined-github/refined-github/pull/9777)** ⭐ 32k · merged by [@fregante](https://github.com/fregante)  
-  Conventional-commit types could not be capitalized. They can now.
 
 **Live**
 
-- **[Unhold](https://unhold.live)** — when a bank or UPI account is frozen, this is the case file. You write every letter. The tool never talks to the bank.
-- **[Tray](https://trayy.vercel.app)** — orders for a street stall, paid to that stall’s UPI. Another stall on the same server cannot see them.
+- **[Unhold](https://unhold.live)** — When a bank or UPI account is frozen, this is the case file. You write every letter. The tool never talks to the bank.
+- **[Tray](https://trayy.vercel.app)** — Orders for a street stall, paid to that stall’s UPI. Another stall on the same server cannot see them.
 
 ### Tech Stack
 

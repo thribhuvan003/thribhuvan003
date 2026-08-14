@@ -1,9 +1,9 @@
 <table width="100%">
   <tr>
-    <td align="left">
-      <strong>Building, breaking, learning.</strong> A little better than yesterday.
+    <td align="left" valign="middle">
+      <h2>Building, breaking, learning.</h2>
     </td>
-    <td align="right">
+    <td align="right" valign="middle">
       <a href="https://thribhuvan0.vercel.app">Portfolio</a> ·
       <a href="https://www.linkedin.com/in/thribhuvan003/">LinkedIn</a> ·
       <a href="mailto:thribhuvan003@gmail.com">Email</a>
@@ -12,7 +12,7 @@
 </table>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=2800&pause=1400&color=8B949E&background=00000000&center=false&vCenter=true&width=680&lines=I+use+these+tools+in+my+own+work.;When+one+breaks%2C+I+fix+it+there+%E2%80%94+not+around+it." alt="I use these tools. When one breaks, I fix it there." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=1400&color=C9D1D9&background=00000000&center=false&vCenter=true&width=680&lines=I+use+these+tools+in+my+own+work.;When+one+breaks%2C+I+fix+it+there+%E2%80%94+not+around+it." alt="I use these tools. When one breaks, I fix it there." />
 </p>
 
 I use these tools. When one broke, I sent a small patch. The people who own the code merged it.

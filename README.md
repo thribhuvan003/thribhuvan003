@@ -1,44 +1,37 @@
 ### Thribhuvan
 
-Full-stack developer. I build web applications and occasionally fix bugs in the open-source libraries I use.
+Full-stack engineer in Bengaluru. I build multi-tenant products with real payments — and when something breaks in a dependency, I fix the dependency.
+
+Maintainers of Svelte, Prisma, Supabase, SolidJS, SvelteKit and Nitro have reviewed and merged 13 of those fixes.
 
 [Portfolio](https://thribhuvan0.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com)
 
+#### Merged upstream
+
+| Library | Stars | Fix |
+|---|---|---|
+| [Svelte](https://github.com/sveltejs/svelte/pull/18521) | ![](https://img.shields.io/github/stars/sveltejs/svelte?style=flat-square&label=%E2%98%85) | Compiler dropped computed keys when destructuring inside keyed `{#each}` blocks |
+| [Prisma](https://github.com/prisma/prisma/pull/29701) | ![](https://img.shields.io/github/stars/prisma/prisma?style=flat-square&label=%E2%98%85) | `Bytes` fields aliased Node's shared Buffer pool, so one query could surface another's data |
+| [SolidJS](https://github.com/solidjs/solid/pull/2875) | ![](https://img.shields.io/github/stars/solidjs/solid?style=flat-square&label=%E2%98%85) | `@solidjs/web/storage` types were published at a path that didn't resolve |
+| [Refined GitHub](https://github.com/refined-github/refined-github/pull/9777) | ![](https://img.shields.io/github/stars/refined-github/refined-github?style=flat-square&label=%E2%98%85) | Conventional-commits parser rejected capitalized types |
+| [SvelteKit](https://github.com/sveltejs/kit/pull/16329) | ![](https://img.shields.io/github/stars/sveltejs/kit?style=flat-square&label=%E2%98%85) | Type generation skipped destructured route exports |
+| [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form/pull/5150) | ![](https://img.shields.io/github/stars/rjsf-team/react-jsonschema-form?style=flat-square&label=%E2%98%85) | Empty-string titles were dropped from `oneOf`/`anyOf` option lists |
+| [Nitro](https://github.com/nitrojs/nitro/pull/4422) | ![](https://img.shields.io/github/stars/nitrojs/nitro?style=flat-square&label=%E2%98%85) | Vercel skew-protection cookie was set stricter than the spec requires |
+| [WXT](https://github.com/wxt-dev/wxt/pull/2486) | ![](https://img.shields.io/github/stars/wxt-dev/wxt?style=flat-square&label=%E2%98%85) | i18n treated `{{mustache}}` tokens as named substitutions |
+| [Supabase JS](https://github.com/supabase/supabase-js/pull/2537) | ![](https://img.shields.io/github/stars/supabase/supabase-js?style=flat-square&label=%E2%98%85) | Storage errors hid the service error code callers needed to branch on |
+| [Music Blocks](https://github.com/sugarlabs/musicblocks/pull/7731) | ![](https://img.shields.io/github/stars/sugarlabs/musicblocks?style=flat-square&label=%E2%98%85) | Numeric action names were lost when importing Turtle Blocks projects |
+| [Music Blocks](https://github.com/sugarlabs/musicblocks/pull/7727) | ![](https://img.shields.io/github/stars/sugarlabs/musicblocks?style=flat-square&label=%E2%98%85) | Trailing metadata entries broke loading of `.tb` projects |
+| [Supabase SSR](https://github.com/supabase/ssr/pull/258) | ![](https://img.shields.io/github/stars/supabase/ssr?style=flat-square&label=%E2%98%85) | Domain-scoped cookie deletion was dropped in name-keyed stores |
+| [WXT](https://github.com/wxt-dev/wxt/pull/2485) | ![](https://img.shields.io/github/stars/wxt-dev/wxt?style=flat-square&label=%E2%98%85) | Init demo reporter output was unreadable in the docs |
+
 #### Projects
 
-- **[Tray](https://github.com/thribhuvan003/trayy)** — UPI ordering system for street stalls and campus canteens, so orders from different customers don't get mixed up
-- **[Unhold](https://github.com/thribhuvan003/unhold)** — helps people draft the letters needed to get a frozen bank or UPI account unblocked
-- **[TrustGrade](https://github.com/thribhuvan003/trustgrade)** — in progress, a platform for verifying and scoring trust between users
-
-#### Open-source contributions
-
-I've had 7 pull requests merged into production libraries, including bug fixes in Svelte, SvelteKit, Prisma, SolidJS, Supabase, and Nitro. Details below.
-
-| Library | Stars | What I fixed |
-|---|---|---|
-| [Svelte](https://github.com/sveltejs/svelte/pull/18521) | ![Stars](https://img.shields.io/github/stars/sveltejs/svelte?style=flat-square&label=%E2%98%85) | A compiler bug in keyed `{#each}` blocks when using computed destructuring |
-| [Prisma](https://github.com/prisma/prisma/pull/29701) | ![Stars](https://img.shields.io/github/stars/prisma/prisma?style=flat-square&label=%E2%98%85) | A query bug that could return another user's data |
-| [SvelteKit](https://github.com/sveltejs/kit/pull/16329) | ![Stars](https://img.shields.io/github/stars/sveltejs/kit?style=flat-square&label=%E2%98%85) | Missing type generation for destructured route exports |
-| [SolidJS](https://github.com/solidjs/solid) | ![Stars](https://img.shields.io/github/stars/solidjs/solid?style=flat-square&label=%E2%98%85) | Published types pointing to the wrong path |
-| [Nitro](https://github.com/unjs/nitro) | ![Stars](https://img.shields.io/github/stars/unjs/nitro?style=flat-square&label=%E2%98%85) | Skew-protection cookies were stricter than intended |
-| [Supabase JS](https://github.com/supabase/supabase-js) | ![Stars](https://img.shields.io/github/stars/supabase/supabase-js?style=flat-square&label=%E2%98%85) | An internal error code was being leaked to callers |
-| [Supabase SSR](https://github.com/supabase/ssr/pull/258) | ![Stars](https://img.shields.io/github/stars/supabase/ssr?style=flat-square&label=%E2%98%85) | Sign-out could leave a session active |
-
-#### Currently
-
-Preparing for SDE interviews — practicing data structures and algorithms on LeetCode, CodeForces, and CodeChef.
-
-#### Tech stack
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **[Tray](https://github.com/thribhuvan003/tray)** — UPI ordering for street stalls and campus canteens. Multi-tenant, idempotent Razorpay capture, Postgres row-level security. [trayy.vercel.app](https://trayy.vercel.app)
+- - **[TrustGrade](https://github.com/thribhuvan003/trustgrade)** — AI-assisted code grading. Deterministic tests decide correctness, and a Postgres trigger makes it impossible to publish an AI answer without teacher approval. Student code runs in disposable, network-less containers. [Live demo](https://trustgrade.vercel.app)
+  - - **[Unhold](https://github.com/thribhuvan003/unhold)** — drafts the letters that get a frozen bank or UPI account released. OCR intake with PII redaction. [unhold.live](https://unhold.live)
+    - - **[AquaVision](https://github.com/thribhuvan003/AquaVision-Web)** — underwater image restoration that runs on CPU, benchmarked on a fixed test set. [Live demo](https://huggingface.co/spaces/mark2423432/AquaVision)
+     
+      - #### Tech
+     
+      - TypeScript · JavaScript · Python · C++ · React · Next.js · Svelte · Node.js · PostgreSQL · Supabase · Prisma · Docker
+      - 

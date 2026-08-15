@@ -1,7 +1,7 @@
-| **Builder & Learner.** Building, breaking, and shipping. | [Portfolio](https://thribhuvan0.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com) |
+| **Thribhuvan.** I fix bugs in the tools I build with — upstream, when needed. | [Portfolio](https://thribhuvan0.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com) |
 |---|---|
 
-I build multi-tenant products with real payments, and when a dependency breaks under me, I fix the dependency instead of working around it.
+I build multi-tenant products that handle real payments and real user data — the kind of work where a broken edge case actually costs someone money.
 
 Outside of code: I read Vedanta and listen to classical music.
 

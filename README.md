@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=130&section=header&text=Thribhuvan&fontSize=52&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=I%20build%20things.%20Then%20I%20get%20curious%20when%20they%20break.&descAlignY=82&descSize=16&descColor=8b949e" width="100%" alt="Thribhuvan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=160&section=header&text=Thribhuvan&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=I%20build%20things.%20Then%20I%20get%20curious%20when%20they%20break.&descAlignY=62&descSize=15&descColor=8b949e" width="100%" alt="Thribhuvan" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=16&duration=2500&pause=1200&color=4F98A3&center=true&vCenter=true&width=720&height=28&lines=I+don%27t+wrap+the+bug.+I+open+the+source.;When+the+library+is+wrong%2C+the+patch+goes+there.;Sometimes+the+fix+ends+up+upstream.;build+%E2%86%92+break+%E2%86%92+understand+%E2%86%92+improve" alt="Typing SVG" />
 
@@ -38,11 +38,14 @@ Seven merged fixes, across ecosystems that ship to millions of developers combin
 
 <div align="center">
 
-### [Unhold](https://github.com/thribhuvan003)
-A product built end-to-end, from idea to deployment.
+### [Tray](https://github.com/thribhuvan003/trayy)
+UPI ordering for a street stall or campus mess. No middleman, no confusion between orders.
 
-### [Tray](https://github.com/thribhuvan003)
-Another full-stack build, shipped and live.
+### [Unhold](https://github.com/thribhuvan003/unhold)
+A case file when a bank or UPI account is frozen — you write every letter, the tool never contacts the bank.
+
+### [TrustGrade](https://github.com/thribhuvan003/trustgrade)
+A full-stack build focused on trust and verification workflows.
 
 </div>
 

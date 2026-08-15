@@ -1,7 +1,9 @@
-| **Full-Stack Developer.** Building, breaking, and shipping. | [Portfolio](https://thribhuvan0.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com) |
+| **Builder & Learner.** Building, breaking, and shipping. | [Portfolio](https://thribhuvan0.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thribhuvan003/) · [Email](mailto:thribhuvan003@gmail.com) |
 |---|---|
 
 I build multi-tenant products with real payments, and when a dependency breaks under me, I fix the dependency instead of working around it.
+
+Outside of code: I read Vedanta and listen to classical music.
 
 - Built **Tray**, a UPI ordering system for street stalls and campus canteens — multi-tenant, idempotent Razorpay capture, Postgres row-level security
 - Built **TrustGrade**, an AI-assisted code grading platform — a Postgres trigger blocks any AI answer from publishing without teacher approval, student code runs in disposable network-less containers

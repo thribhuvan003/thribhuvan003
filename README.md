@@ -9,7 +9,7 @@ Outside of code: I read Vedanta and listen to classical music.
 - Built **TrustGrade**, an AI-assisted code grading platform — a Postgres trigger blocks any AI answer from publishing without teacher approval, student code runs in disposable network-less containers
 - Built **Unhold**, a tool that drafts the letters needed to release a frozen bank or UPI account — OCR intake with PII redaction
 - Built **AquaVision**, underwater image restoration that runs on CPU, benchmarked on a fixed test set
-- Landed **13 merged pull requests across 11 upstream projects in five weeks** — **Svelte**, **Prisma**, **SolidJS**, **SvelteKit**, **Supabase**, **Nitro**, **Refined GitHub**, **WXT**, **Music Blocks**, and **react-jsonschema-form** — reviewed and merged by their maintainers, several by the people who created the framework
+- Landed **14 merged pull requests across 11 upstream projects in seven weeks** — **Svelte**, **Prisma**, **SolidJS**, **SvelteKit**, **Supabase**, **Nitro**, **Refined GitHub**, **WXT**, **Music Blocks**, and **react-jsonschema-form** — reviewed and merged by their maintainers, several by the people who created the framework
 
 Currently working on **Tray**, **TrustGrade**, and **Unhold**, and preparing for SDE interviews with DSA practice on LeetCode, CodeForces, and CodeChef.
 
@@ -30,7 +30,7 @@ Currently working on **Tray**, **TrustGrade**, and **Unhold**, and preparing for
 
 ### Open Source — Merged Upstream
 
-13 pull requests, 11 projects, 4 July – 8 August 2026. Each row links the PR.
+14 pull requests, 11 projects, 4 July – 20 August 2026. Each row links the PR.
 
 | Project | Reach | What I fixed | Merged by |
 |---|---|---|---|
@@ -40,7 +40,7 @@ Currently working on **Tray**, **TrustGrade**, and **Unhold**, and preparing for
 | **[Refined GitHub](https://github.com/refined-github/refined-github)** · [#9777](https://github.com/refined-github/refined-github/pull/9777) | 🌟 31.9k · 1.9k forks<br>100k+ users | Conventional-commit labelling silently failed for capitalized types (`Fix`, `Feature`); made matching case-insensitive | **@fregante**<br>author of Refined GitHub |
 | **[SvelteKit](https://github.com/sveltejs/kit)** · [#16329](https://github.com/sveltejs/kit/pull/16329) | 🌟 20.7k · 2.3k forks<br>2.4M installs/wk | Route exports written as destructured declarations were invisible to type generation | **@Rich-Harris**<br>creator of Svelte |
 | **[react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)** · [#5150](https://github.com/rjsf-team/react-jsonschema-form/pull/5150) | 🌟 15.9k · 2.3k forks<br>1.2M installs/wk | Empty-string titles in `oneOf`/`anyOf` were discarded, so intentionally blank labels fell back to defaults | **@heath-freenome**<br>rjsf maintainer |
-| **[Nitro](https://github.com/nitrojs/nitro)** · [#4422](https://github.com/nitrojs/nitro/pull/4422) | 🌟 11.1k · 886 forks<br>2M installs/wk | Vercel skew-protection cookies shipped without `SameSite=Lax`, dropping the deployment pin on cross-site navigation | **@pi0**<br>Nitro lead maintainer |
+| **[Nitro](https://github.com/nitrojs/nitro)** · [#4422](https://github.com/nitrojs/nitro/pull/4422) · [#4412](https://github.com/nitrojs/nitro/pull/4412) | 🌟 11.1k · 886 forks<br>2M installs/wk | Vercel skew-protection cookies shipped without `SameSite=Lax`, dropping the deployment pin on cross-site navigation; prerendered routes ending in a slash emitted Build Output overrides Vercel silently refuses to match, so they fell through to the serverless function instead of being served statically | **@pi0**<br>Nitro lead maintainer |
 | **[WXT](https://github.com/wxt-dev/wxt)** · [#2486](https://github.com/wxt-dev/wxt/pull/2486) · [#2485](https://github.com/wxt-dev/wxt/pull/2485) | 🌟 10.4k · 558 forks<br>550k installs/wk | i18n consumed mustache `{{tokens}}` as substitutions; added a `\{` escape and replaced a lookbehind regex with a single-pass parse that benchmarked **faster than main** | **@aklinker1**<br>creator of WXT |
 | **[Supabase JS](https://github.com/supabase/supabase-js)** · [#2537](https://github.com/supabase/supabase-js/pull/2537) | 🌟 4.5k · 715 forks<br>25M installs/wk | `StorageApiError` swallowed the service error `code`, forcing callers to string-match messages; the Storage team shipped the server half alongside it | **@mandarini**<br>Supabase core |
 | **[Supabase SSR](https://github.com/supabase/ssr)** · [#258](https://github.com/supabase/ssr/pull/258) | 🌟 205 · 30 forks<br>6.8M installs/wk | Cookie-deletion ordering left `signOut()` unable to clear a domain-scoped session, so users stayed logged in after signing out | **@mandarini**<br>Supabase core |
@@ -48,4 +48,4 @@ Currently working on **Tray**, **TrustGrade**, and **Unhold**, and preparing for
 
 *Install counts are weekly npm downloads for the package each fix ships in.*
 
-**In review:** [Directus](https://github.com/directus/directus/pull/27880) · [Skyvern](https://github.com/Skyvern-AI/skyvern/pull/7076) *(approved)* · [Svelte](https://github.com/sveltejs/svelte/pull/18526)
+**In review:** [Firecrawl](https://github.com/firecrawl/firecrawl/pull/4354) · [Knip](https://github.com/webpro-nl/knip/pull/1962) · [Directus](https://github.com/directus/directus/pull/27880) · [Skyvern](https://github.com/Skyvern-AI/skyvern/pull/7076) *(approved)* · [Svelte](https://github.com/sveltejs/svelte/pull/18526)

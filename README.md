@@ -48,5 +48,5 @@ Currently working on **Tray**, **TrustGrade**, and **Unhold**, and preparing for
 
 *Install counts are weekly npm downloads for the package each fix ships in. 4 of the 14 fixes were self-identified latent bugs discovered through source code reading, with no prior issue filed.*
 
-**In review:** [Directus](https://github.com/directus/directus/pull/27880) · [Prisma](https://github.com/prisma/orm/pull/30107) · [TanStack Query](https://github.com/TanStack/query/pull/11291) · [Firecrawl](https://github.com/firecrawl/firecrawl/pull/4354) · [Skyvern](https://github.com/Skyvern-AI/skyvern/pull/7076) *(approved)* · [Svelte](https://github.com/sveltejs/svelte/pull/18526)
+**In review:** [Nitro](https://github.com/nitrojs/nitro/pull/4609) · [Directus](https://github.com/directus/directus/pull/27880) · [Prisma](https://github.com/prisma/orm/pull/30107) · [TanStack Query](https://github.com/TanStack/query/pull/11291) · [Firecrawl](https://github.com/firecrawl/firecrawl/pull/4354) · [Skyvern](https://github.com/Skyvern-AI/skyvern/pull/7076) *(approved)* · [Svelte](https://github.com/sveltejs/svelte/pull/18526)
 
